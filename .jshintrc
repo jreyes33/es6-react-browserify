@@ -1,0 +1,7 @@
+{
+  "browser": true,
+  "enforceall": true,
+  "esnext": true,
+  "nocomma": false,
+  "singleGroups": false
+}
